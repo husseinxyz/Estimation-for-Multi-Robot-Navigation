@@ -20,8 +20,3 @@ Read `ARS_04_miniproject_A20.pdf` for more details about the problem we solved i
 4.  `Animation` can be turned off to view the results and plots directly.
 
 You can find more details about our approach, equations, and results in `FINAL_REPORT.pdf`.
-
-## Maintainers
-* [](https://github.com/husseinxyz)
-* [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/)
-* [Ahmad Shour](https://www.linkedin.com/in/ahmad-shour-1531371a8/)
